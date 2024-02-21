@@ -2,7 +2,7 @@
 // @name         GeoFS coloring
 // @namespace    http://tampermonkey.net/
 // @description  Colors the GeoFS chat!
-// @author       Shade and the folks.
+// @author       Shade and the folks at the BGTDT.
 // @version      0
 // @match        https://www.geo-fs.com/geofs.php?v=*
 // @match        https://legacy.geo-fs.com/geofs.php
